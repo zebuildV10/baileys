@@ -1,5 +1,5 @@
 {
-  "name": "@skyzopedia/baileys-pro",
+  "name": "@zebuild/baileys-pro",
   "version": "8.0.6",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/skyzopedia/Baileys",
+  "homepage": "https://github.com/zebuildV10/baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/skyzopedia/Baileys.git"
+    "url": "git+ssh://git@github.com/zebuildV10/baileys.git"
   },
   "license": "MIT",
-  "author": "Skyzopedia",
+  "author": "zebuild",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -39,7 +39,7 @@
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "@cacheable/node-cache": "*",
     "gradient-string": "2.0.2",
-    "libsignal-xeuka": "github:tskiofc/libsignal",
+    "libsignal-xeuka": "github:zebuildV10/libsignal",
     "moment-timezone": "*",
     "music-metadata": "*",
     "cache-manager": "*",
